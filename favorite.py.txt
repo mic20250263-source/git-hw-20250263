@@ -1,0 +1,9 @@
+print("HELLO WORLD")
+print("I love PSUT")
+
+
+count = 0
+for i in "HELLO WORLD":
+	print(" " * count + i)
+	count += 1
+	
