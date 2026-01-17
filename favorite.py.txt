@@ -1,5 +1,5 @@
 print("HELLO WORLD")
-print("I love my university ")
+print("I love my university! ")
 count = 0
 for i in "HELLO WORLD":
 	print(" " * count + i)
